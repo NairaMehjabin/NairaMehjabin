@@ -1,20 +1,17 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="image_bc2627.png" alt="Pixel Art Banner" width="100%">
+<img src="header.ong" alt="Pixel Art Banner" width="100%">
 
-# Hello! I'm Pixel Studio 🍓
-*Frontend Developer | Crafting cozy digital spaces with love.*
+# Hello! I'm Naira 🍓
+*Full-Stack Developer | Crafting cozy digital spaces with love.*
 
 <br>
-
-<!-- Decorative divider or social links -->
-<p style="color: #8B5E3C;">— currently exploring the honey haze of code —</p>
 
 </div>
 
 ## 🌿 About Me
-I'm a frontend developer based in Bangladesh, specializing in creating fluid and aesthetic web experiences. My work is inspired by folk art, cozy textures, and the joy of pixel perfection.
+I'm a full-stack developer based in Bangladesh, specializing in creating fluid and aesthetic web experiences. My work is inspired by folk art, cozy textures, and the joy of pixel perfection.
 
 ## 💻 Tech Stack
 <div align="center">
@@ -31,5 +28,5 @@ I'm a frontend developer based in Bangladesh, specializing in creating fluid and
 
 ---
 <div align="center">
-  <small style="color: #8B5E3C;">Made with 🍵 and 🧶 by Mst. Gulnahar</small>
+  <small style="color: #8B5E3C;">Made with Pixel Perfection </small>
 </div>
