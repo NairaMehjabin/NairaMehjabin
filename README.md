@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="header.ong" alt="Pixel Art Banner" width="100%">
+<img src="header.png" alt="Pixel Art Banner" width="100%">
 
 # Hello! I'm Naira 🍓
 *Full-Stack Developer | Crafting cozy digital spaces with love.*
