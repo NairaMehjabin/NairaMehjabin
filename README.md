@@ -73,7 +73,11 @@ Hello, world! I'm **Naira Mehjabin**, a passionate web developer who loves blend
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/40c463/NairaMehjabin" alt="Naira's Github Contributions" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NairaMehjabin/NairaMehjabin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NairaMehjabin/NairaMehjabin/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/NairaMehjabin/NairaMehjabin/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
