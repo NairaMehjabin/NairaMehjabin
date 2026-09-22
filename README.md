@@ -64,8 +64,8 @@ Hello, world! I'm **Naira Mehjabin**, a passionate web developer who loves blend
 ### 📊 Github Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=NairaMehjabin&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=NairaMehjabin&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=NairaMehjabin&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NairaMehjabin&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" width="48%" />
 </div>
 
 ---
