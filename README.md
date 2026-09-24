@@ -17,45 +17,45 @@
 
 ---
 
-> ✨ **Welcome to my digital corner of the web!** > I specialize in building "Cozy-Tech" experiences—digital spaces that feel warm, artistic, and character-driven while running on cutting-edge, industrial-grade code.
+<h1>✨ Welcome!</h1>
 
-### 🌸 About Me
+> ### I specialize in building "Cozy-Tech" experiences—digital spaces that feel warm, artistic, and character-driven while running on cutting-edge, industrial-grade code.
 
-> ✦ `whoami`  
-> Hello, world! I'm **Naira Mehjabin**, a full-stack developer who loves blending clean logic with thoughtful design aesthetics.
+<h1>🌸 About Me</h1>
 
-> 🛠️ `current_focus`  
-> **Stitch** • Building a TypeScript CLI tool designed for detecting inconsistent interface-property names, resolving duplicate concepts, and applying AST-safe repairs.
+### Hello, world! I'm **Naira Mehjabin**, a full-stack developer who loves blending clean logic with thoughtful design aesthetics.
 
-> 📚 `learning_journey`  
-> **Programming Hero (Batch 14)** • Leveling up in their *AI-Driven Full Stack Web Engineering* bootcamp—sharpening production-grade web architecture, modern backend workflows, and AI-assisted development.
-
-> 🎨 `creative_pursuits`  
-> **Art & Game Dev** • Experimenting with 3D low-poly modeling in Blender, game development in Godot, digital illustrations, and cohesive color systems.
+> ### ✦ **Current Focus:** Building *Stitch*, a TypeScript CLI tool for detecting inconsistent interface-property names, resolving duplicate concepts, and applying AST-safe repairs.  
+> ### ✦ **Learning Journey:** Currently in **Programming Hero (Batch 14)** under their *AI-Driven Full Stack Web Engineering* bootcamp—sharpening production-grade web architecture, modern backend workflows, and AI-assisted development.  
+> ### ✦ **Creative Pursuits:** Experimenting with 3D low-poly modeling in Blender, game development in Godot, digital illustrations, and cohesive color systems.
 
 ---
 
-### 💻 Skills & Tech Stack
+<h1>💻 Skills & Tech Stack</h1>
 
-**Languages & Core** <a href="https://skillicons.dev">
+### Languages & Core  
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages & Core" />
 </a>
 
-**Frontend & Mobile** <a href="https://skillicons.dev">
+### Frontend & Mobile
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,react,expo" alt="Frontend & Mobile" />
 </a>
 
-**Backend & Databases** <a href="https://skillicons.dev">
+### Backend & Databases
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" alt="Backend & Databases" />
 </a>
 
-**Tools & Creative** <a href="https://skillicons.dev">
+### Tools & Creative  
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,blender,godot" alt="Tools & Creative" />
 </a>
 
 ---
 
-### 📊 Github Stats
+<h1>📊 Github Stats</h1>
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=NairaMehjabin&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats" width="48%" />
@@ -64,7 +64,7 @@
 
 ---
 
-### 🐍 Contribution Graph
+<h1>🐍 Contribution Graph</h1>
 
 <div align="center">
   <picture>
@@ -76,12 +76,12 @@
 
 ---
 
-### 💌 Connect With Me
+<h1>💌 Connect With Me</h1>
 
-> 🌸 **Portfolio:** [StarLight](https://st4rligh7.vercel.app/)  
-> 💼 **LinkedIn:** [Naira Mehjabin](https://www.linkedin.com/in/naira-mehjabin)  
-> ✉️ **Email:** `nairamehjabin2014@gmail.com`  
-> 💬 **Fiverr:** [Naira_Mehjabin](https://www.fiverr.com/s/K3eEmkE)  
+### 🌸 Portfolio:** [StarLight](https://star-light-three.vercel.app/)  
+### 💼 LinkedIn: [Naira Mehjabin](https://www.linkedin.com/in/naira-mehjabin)  
+### 💬 Fiverr: [Naira_Mehjabin](https://www.fiverr.com/s/K3eEmkE)  
+### ✉️ Email: `nairamehjabin2014@gmail.com`  
 
 ---
 
