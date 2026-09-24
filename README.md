@@ -5,13 +5,13 @@
   <br/><br/>
 
   <h1>Naira Mehjabin ✦ Full-Stack Developer</h1>
-  <p><i>I develop digital experiences that bridge the gap between functionality and art.</i></p>
+  <h3><i>I develop digital experiences that bridge the gap between functionality and art.</i></h3>
 
-  <p>
+  <h4>
     <code>Full-Stack Web Developer • Student</code> • 
     <code>Bangladesh</code> • 
     <code>Open to Freelance & Collaboration</code>
-  </p>
+  </h4>
 
 </div>
 
