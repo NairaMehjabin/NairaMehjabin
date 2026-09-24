@@ -17,47 +17,41 @@
 
 ---
 
+> ✨ **Welcome to my digital corner of the web!** > I specialize in building "Cozy-Tech" experiences—digital spaces that feel warm, artistic, and character-driven while running on cutting-edge, industrial-grade code.
+
 ### 🌸 About Me
 
-Hello, world! I'm **Naira Mehjabin**, a passionate web developer who loves blending clean code with thoughtful design aesthetics.
+> ✦ `whoami`  
+> Hello, world! I'm **Naira Mehjabin**, a full-stack developer who loves blending clean logic with thoughtful design aesthetics.
 
-* **Current Focus:** Building *Stitch*, a TypeScript CLI tool designed for detecting inconsistent interface-property names, resolving duplicate concepts, and applying AST-safe repairs.
-* **Learning Journey:** Currently enrolled in **Programming Hero (Batch 14)** under their *AI-Driven Full Stack Web Engineering* bootcamp, sharpening production-grade web architecture and modern full-stack workflows.
-* **Creative Pursuits:** Experimenting with 3D modeling in Blender, game development in Godot, digital illustrations, and aesthetic visual design.
+> 🛠️ `current_focus`  
+> **Stitch** • Building a TypeScript CLI tool designed for detecting inconsistent interface-property names, resolving duplicate concepts, and applying AST-safe repairs.
+
+> 📚 `learning_journey`  
+> **Programming Hero (Batch 14)** • Leveling up in their *AI-Driven Full Stack Web Engineering* bootcamp—sharpening production-grade web architecture, modern backend workflows, and AI-assisted development.
+
+> 🎨 `creative_pursuits`  
+> **Art & Game Dev** • Experimenting with 3D low-poly modeling in Blender, game development in Godot, digital illustrations, and cohesive color systems.
 
 ---
 
 ### 💻 Skills & Tech Stack
 
-**Languages & Core**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Languages & Core** <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Languages & Core" />
+</a>
 
-**Frontend & Mobile**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=expo&logoColor=white)
+**Frontend & Mobile** <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,react,expo" alt="Frontend & Mobile" />
+</a>
 
-**Backend & Databases**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Backend & Databases** <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" alt="Backend & Databases" />
+</a>
 
-**Tools & Creative**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
+**Tools & Creative** <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,figma,blender,godot" alt="Tools & Creative" />
+</a>
 
 ---
 
