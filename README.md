@@ -78,7 +78,7 @@
 
 <h1>💌 Connect With Me</h1>
 
-### 🌸 Portfolio:** [StarLight](https://star-light-three.vercel.app/)  
+### 🌸 Portfolio: [StarLight](https://star-light-three.vercel.app/)  
 ### 💼 LinkedIn: [Naira Mehjabin](https://www.linkedin.com/in/naira-mehjabin)  
 ### 💬 Fiverr: [Naira_Mehjabin](https://www.fiverr.com/s/K3eEmkE)  
 ### ✉️ Email: `nairamehjabin2014@gmail.com`  
